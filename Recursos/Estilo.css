@@ -1,0 +1,41 @@
+body{
+    background-color: #19bc9c;
+}
+
+.tamaño1{
+    width: 20%;
+}
+.tamaño2{
+    width: 80%;
+}
+.tamaño3{
+    width: 30%;
+    height: 100px;
+}
+.tamaño4{
+    width: 70%;
+    height: 100px;
+}
+.tamaño5{
+    width: 100%;
+}
+.bordeBlanco{
+    border-color: white;
+    border-style: solid;
+    border-width: 4px;
+}
+
+.fondoVerdeC{
+    background-color: #2ecb70;
+}
+
+.fondoRojo{
+    background-color: #e74c3c;
+}
+
+.fondoMorado{
+    background-color: #9b59b6;
+}
+.texto{
+    color: white;
+}
